@@ -7,19 +7,22 @@
 }
 .main{
     width: 50%;
-    max-height: 70%;
+    min-height: 50%;
     background-color: whitesmoke;
     border-radius: 25px;
 }
 .section1 img{
     width: 300px;
     position: absolute;
-    top: 80px;
+    top: 50px;
     left: 31%;
 }
-span{
+.show1, .show2, .show3, .show4, .show5{
     display:none;
+}
+span{
     color:hsl(240, 6%, 50%);
+    font-size:1rem;
 }
 .FAQ{
     text-align:center;
