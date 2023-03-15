@@ -10,12 +10,13 @@
     min-height: 50%;
     background-color: whitesmoke;
     border-radius: 25px;
+    position: relative;
 }
 .section1 img{
     width: 300px;
     position: absolute;
-    top: 50px;
-    left: 31%;
+    top: -130px;
+    right: 10%;
 }
 .show1, .show2, .show3, .show4, .show5{
     display:none;
