@@ -44,7 +44,7 @@ third.addEventListener("click", function(){
     }
     else
     {
-        word1.classList.add("show3");
+        word3.classList.add("show3");
     }
 });
 
@@ -54,7 +54,7 @@ fourth.addEventListener("click", function(){
     }
     else
     {
-        word1.classList.add("show4");
+        word4.classList.add("show4");
     }
 });
 
@@ -64,6 +64,6 @@ fifth.addEventListener("click", function(){
     }
     else
     {
-        word1.classList.add("show5");
+        word5.classList.add("show5");
     }
 });
